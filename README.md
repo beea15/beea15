@@ -4,7 +4,7 @@
 
 Olá, sou **Beatriz Oliveira**, tenho 20 anos e sou natural de **Campinas, SP**. Atualmente, estou no último ano do curso de **Análise e Desenvolvimento de Sistemas** na **Unimetrocamp**.
 
-Atuo como estagiária na área de **Inovação e Tecnologia** na **Ceasa Campinas**, onde estou desenvolvendo um sistema interno de **Help Desk** e contribuindo para a evolução do sistema interno da Ceasa, o **SIMEEC**.
+Atualmente estou estagaindo na área de **Inovação e Tecnologia** na **Ceasa Campinas**, onde estou desenvolvendo um sistema interno de **Help Desk** e contribuindo para a evolução do sistema interno da Ceasa, o **SIMEEC**.
 
 Estou trabalhando com **Java**, **HTML**, **CSS** e **PostgreSQL**.
 
